@@ -1,0 +1,2 @@
+Using Dp : 153854
+Using Genetic Algorithm : 167584
